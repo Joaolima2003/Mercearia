@@ -27,7 +27,7 @@ class Venda:
 
 class Fornecedor:
     def __init__(self, nome_Fornecedor, categoria, email, telefone, cnpj):
-        self.nome = nome_Fornecedor
+        self.nome_Fornecedor = nome_Fornecedor
         self.categoria = categoria
         self.email = email
         self.cnpj = cnpj
