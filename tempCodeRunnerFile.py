@@ -1,0 +1,2 @@
+
+            cls.venda = arq.readlines()
